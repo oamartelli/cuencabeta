@@ -1932,35 +1932,19 @@ body {
     font-size: 40px !important;
   }
 }
-.cid-qK865sUCLR {
+.cid-r2jCgejXzI {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background: linear-gradient(45deg, #dbd4b8, #25aab2);
 }
-.cid-qK865sUCLR .title {
-  margin-bottom: 2rem;
+.cid-r2jCgejXzI .main {
+  flex-direction: row-reverse;
 }
-.cid-qK865sUCLR .mbr-section-subtitle {
-  color: #767676;
+.cid-r2jCgejXzI .main .mbr-section-btn {
+  text-align: right;
 }
-.cid-qK865sUCLR a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qK865sUCLR a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qK865sUCLR .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qK865sUCLR .input-group-btn {
-  display: block;
-  text-align: center;
-}
-.cid-qK865sUCLR H2 {
-  color: #fc0000;
+.cid-r2jCgejXzI .btn {
+  margin: 0 0 .5rem 0;
 }
 .cid-qNwq8eW0TP {
   padding-top: 60px;
