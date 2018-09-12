@@ -1935,7 +1935,7 @@ body {
 .cid-r2jCgejXzI {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/comer-header-redimensionado-1689x68314.jpg");
+  background-image: url("../../../assets/images/comer-header-redimensionado-1689x6830.jpg");
 }
 .cid-r2jCgejXzI .main {
   flex-direction: row-reverse;
@@ -3268,7 +3268,7 @@ body {
 }
 .cid-qKuMXRrEpp {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #efefef;
 }
 .cid-qKuMXRrEpp .card-box {
@@ -3306,6 +3306,11 @@ body {
 .cid-qKuMXRrEpp .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-r3mR4Ge4fZ {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #efefef;
 }
 .cid-qJKLx0VQLF {
   padding-top: 30px;
@@ -18814,7 +18819,7 @@ body {
 .cid-r2k0ATfrP2 {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/debin-header-1689x68315.jpg");
+  background-image: url("../../../assets/images/debin-header-1689x6831.jpg");
 }
 .cid-r2k0ATfrP2 H1 {
   text-align: left;
@@ -20005,18 +20010,10 @@ body {
 .cid-r2TJgKOWDt .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-r2TJgNMytm {
-  padding-top: 30px;
-  padding-bottom: 0px;
-  background-color: #455052;
-}
-.cid-r2TJgNMytm H2 {
-  color: #efefef;
-}
 .cid-r2TJN5Oq2X {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/institucional-header-frente-cuenca-1689x68316.jpg");
+  background-image: url("../../../assets/images/institucional-header-frente-cuenca-1689x6832.jpg");
 }
 .cid-r2TJN5Oq2X H1 {
   text-align: left;
