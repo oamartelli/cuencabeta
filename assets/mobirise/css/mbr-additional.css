@@ -1935,7 +1935,7 @@ body {
 .cid-r2jCgejXzI {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/comer-header-redimensionado-1689x6830.jpg");
+  background-image: url("../../../assets/images/comer-header-redimensionado-1689x6833.jpg");
 }
 .cid-r2jCgejXzI .main {
   flex-direction: row-reverse;
@@ -3308,7 +3308,7 @@ body {
   transition: box-shadow 0.3s;
 }
 .cid-r3mR4Ge4fZ {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 60px;
   background-color: #efefef;
 }
@@ -16201,6 +16201,88 @@ body {
 .cid-qObA2VZI4D P {
   text-align: center;
 }
+.cid-r4LSYLqbbm {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-r4LSYLqbbm .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-r4LSYLqbbm .container-table {
+  margin: 0 auto;
+}
+.cid-r4LSYLqbbm .scroll {
+  overflow-x: auto;
+  padding: 0;
+}
+.cid-r4LSYLqbbm .dataTables_wrapper {
+  display: block;
+}
+.cid-r4LSYLqbbm .dataTables_wrapper .search {
+  margin-bottom: .5rem;
+}
+.cid-r4LSYLqbbm .dataTables_wrapper .table {
+  overflow-x: auto;
+}
+.cid-r4LSYLqbbm table {
+  width: 100% !important;
+  margin-top: 6px;
+  border: 1px solid #cccccc;
+  margin-bottom: 0;
+}
+.cid-r4LSYLqbbm table th {
+  border-top: none;
+  transition: all .2s;
+  border-bottom: none;
+}
+.cid-r4LSYLqbbm table th:hover {
+  background: #cccccc;
+  color: #000000;
+}
+.cid-r4LSYLqbbm table td {
+  border-top: 1px solid #cccccc;
+}
+.cid-r4LSYLqbbm table.table {
+  background: #ffffff;
+}
+.cid-r4LSYLqbbm .dataTables_filter {
+  text-align: right;
+  margin-bottom: .5rem;
+}
+.cid-r4LSYLqbbm .dataTables_filter label {
+  display: inline;
+  white-space: normal !important;
+}
+.cid-r4LSYLqbbm .dataTables_filter input {
+  display: inline;
+  width: auto;
+  margin-left: .5rem;
+  border-radius: 100px;
+  padding-left: 1rem;
+}
+.cid-r4LSYLqbbm .dataTables_info {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  white-space: normal !important;
+}
+@media (max-width: 992px) {
+  .cid-r4LSYLqbbm .dataTables_filter {
+    text-align: center;
+  }
+}
+@media (max-width: 350px) {
+  .cid-r4LSYLqbbm .dataTables_filter {
+    text-align: center;
+  }
+  .cid-r4LSYLqbbm .dataTables_filter input {
+    width: 100% !important;
+    margin-left: 0 !important;
+  }
+}
+.cid-r4LSYLqbbm .mbr-section-title {
+  color: #fc0000;
+}
 .cid-qOaMiLxTZC {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -18819,7 +18901,7 @@ body {
 .cid-r2k0ATfrP2 {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/debin-header-1689x6831.jpg");
+  background-image: url("../../../assets/images/debin-header-1689x6834.jpg");
 }
 .cid-r2k0ATfrP2 H1 {
   text-align: left;
@@ -20013,7 +20095,7 @@ body {
 .cid-r2TJN5Oq2X {
   padding-top: 135px;
   padding-bottom: 135px;
-  background-image: url("../../../assets/images/institucional-header-frente-cuenca-1689x6832.jpg");
+  background-image: url("../../../assets/images/institucional-header-frente-cuenca-1689x6835.jpg");
 }
 .cid-r2TJN5Oq2X H1 {
   text-align: left;
